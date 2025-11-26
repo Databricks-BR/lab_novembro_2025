@@ -11,6 +11,7 @@
 # MAGIC | versão | data | autor | e-mail | alterações |
 # MAGIC | --- | --- | --- | --- | --- |
 # MAGIC | 1.0 | 18-AGO-2025 | Luis Assunção | luis.assuncao@databricks.com | Primeira versão (criação de massa de dados) |
+# MAGIC | 1.1 | 23-NOV-2025 | Gabriel Caballeria | gabriel.caballeria@databricks.com | Instruções sobre Databricks Assistant |
 
 # COMMAND ----------
 
@@ -41,19 +42,12 @@
 import pandas as pd
 from pyspark.sql import SparkSession
 
-url = f"https://raw.githubusercontent.com//Databricks-BR/lab_agosto_2025/main/dados/"
+url = f"https://raw.githubusercontent.com//Databricks-BR/lab_novembro_2025/main/dados/"
 
 
-catalog_name = f"gabriel_caballeria"
+catalog_name = f"workshop"
 
-
-# COMMAND ----------
-
-# DBTITLE 1,ALTERE ESSE PARAMETRO
-#schema_name  = f"<<<<<-----COLOQUE SEU USER NAME AQUI --------->>>>"
-
-schema_name  = f"workshop_irb"
-
+schema_name  = f"<<<<<-----COLOQUE SEU USER NAME AQUI --------->>>>"
 
 # COMMAND ----------
 
