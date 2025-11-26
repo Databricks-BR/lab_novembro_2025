@@ -12,10 +12,10 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de ma
 | -- | -- | -- |
 | 01 | Introdução - Cultura de Dados e Objetivos do LAB                                   | 30 min |
 | 02 | Sobre plataforma Databricks + Dashboard AI / BI                                    | 30 min |
-| 03 | Lab 01 - Ingestão de tabelas para uso nos laboratórios                             | 20 min |
+| 03 | Lab 01 - Ingestão de tabelas para uso nos laboratórios                             | 30 min |
 | 04 | Lab 02 - Entendendo os Dados com o Assistant                                       | 30 min |
-| 05 | Lab 03 - Análise Exploratória (Dashboard AI/BI)                                    | 30 min |
-| 07 | Conclusões                                                                         | 20 min |
+| 05 | Lab 03 - Análise Exploratória (Dashboard AI/BI)                                    | 50 min |
+| 06 | Conclusões                                                                         | 20 min |
 
 
 </br>
